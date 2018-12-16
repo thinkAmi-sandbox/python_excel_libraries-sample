@@ -9,3 +9,6 @@
 - openpyxl/protection
   - Python3.6.6 & openpyxl 2.5.12
     - [Python + openpyxlで、ブックやシートの保護・解除を試してみた - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2018/12/15/104614)
+- msoffcrypto_tool
+  - Python3.6.6 & msoffcrypto-tool 4.6.3
+    - [Python + msoffcrypto-toolで、Excelの読み取りパスワードを解除する - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2018/12/16/153157) 
